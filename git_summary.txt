@@ -1,0 +1,4 @@
+git config --global --list
+git config --global user.name "rahulshri0703"
+git config --global user.email "rahulshri0703@gmail.com"
+git config --global init.defaultBranch "main"
